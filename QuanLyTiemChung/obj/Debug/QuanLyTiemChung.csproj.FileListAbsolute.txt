@@ -1,0 +1,539 @@
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\pttk httt\do an\v7\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\QuanLyTiemChung.exe.config
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\pttk httt\do an\v7\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\QuanLyTiemChung.exe
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\pttk httt\do an\v7\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\QuanLyTiemChung.pdb
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\pttk httt\do an\v7\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Google.Apis.Core.dll
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\pttk httt\do an\v7\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Google.Apis.dll
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\pttk httt\do an\v7\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\pttk httt\do an\v7\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Newtonsoft.Json.dll
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\pttk httt\do an\v7\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\System.Data.SqlClient.dll
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\pttk httt\do an\v7\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Google.Apis.pdb
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\pttk httt\do an\v7\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Google.Apis.xml
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\pttk httt\do an\v7\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Google.Apis.Core.pdb
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\pttk httt\do an\v7\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Google.Apis.Core.xml
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\pttk httt\do an\v7\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Newtonsoft.Json.xml
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\pttk httt\do an\v7\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\System.Data.SqlClient.xml
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\pttk httt\do an\v7\QuanLyTiemChung\QuanLyTiemChung\obj\Debug\QuanLyTiemChung.csproj.AssemblyReference.cache
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\pttk httt\do an\v7\QuanLyTiemChung\QuanLyTiemChung\obj\Debug\QuanLyTiemChung.fLogin.resources
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\pttk httt\do an\v7\QuanLyTiemChung\QuanLyTiemChung\obj\Debug\QuanLyTiemChung.fNhanVien_TiepTan.resources
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\pttk httt\do an\v7\QuanLyTiemChung\QuanLyTiemChung\obj\Debug\QuanLyTiemChung.fNhanVien_DieuHanh.resources
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\pttk httt\do an\v7\QuanLyTiemChung\QuanLyTiemChung\obj\Debug\QuanLyTiemChung.fNhanVien_DieuHanh_SapXepLich.resources
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\pttk httt\do an\v7\QuanLyTiemChung\QuanLyTiemChung\obj\Debug\QuanLyTiemChung.fNhanVien_DieuHanh_XemLich.resources
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\pttk httt\do an\v7\QuanLyTiemChung\QuanLyTiemChung\obj\Debug\QuanLyTiemChung.fNhanVien_TiepTan_ThemPhieuDangKy.resources
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\pttk httt\do an\v7\QuanLyTiemChung\QuanLyTiemChung\obj\Debug\QuanLyTiemChung.fNhanVien_TiepTan_XemDanhSachVaccine.resources
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\pttk httt\do an\v7\QuanLyTiemChung\QuanLyTiemChung\obj\Debug\QuanLyTiemChung.fNhanVien_YBacSi.resources
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\pttk httt\do an\v7\QuanLyTiemChung\QuanLyTiemChung\obj\Debug\QuanLyTiemChung.fNhanVien_YBacSi_DangKy.resources
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\pttk httt\do an\v7\QuanLyTiemChung\QuanLyTiemChung\obj\Debug\QuanLyTiemChung.fNhanVien_YBacSi_XemLich.resources
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\pttk httt\do an\v7\QuanLyTiemChung\QuanLyTiemChung\obj\Debug\QuanLyTiemChung.Properties.Resources.resources
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\pttk httt\do an\v7\QuanLyTiemChung\QuanLyTiemChung\obj\Debug\QuanLyTiemChung.csproj.GenerateResource.cache
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\pttk httt\do an\v7\QuanLyTiemChung\QuanLyTiemChung\obj\Debug\QuanLyTiemChung.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\pttk httt\do an\v7\QuanLyTiemChung\QuanLyTiemChung\obj\Debug\QuanLyTiemChung.csproj.CopyComplete
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\pttk httt\do an\v7\QuanLyTiemChung\QuanLyTiemChung\obj\Debug\QuanLyTiemChung.exe
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\pttk httt\do an\v7\QuanLyTiemChung\QuanLyTiemChung\obj\Debug\QuanLyTiemChung.pdb
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\pttk httt\do an\v8_thai\QuanLyTiemChung\QuanLyTiemChung\obj\Debug\QuanLyTiemChung.csproj.AssemblyReference.cache
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\pttk httt\do an\v8_thai\QuanLyTiemChung\QuanLyTiemChung\obj\Debug\QuanLyTiemChung.fLogin.resources
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\pttk httt\do an\v8_thai\QuanLyTiemChung\QuanLyTiemChung\obj\Debug\QuanLyTiemChung.fNhanVien_TiepTan.resources
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\pttk httt\do an\v8_thai\QuanLyTiemChung\QuanLyTiemChung\obj\Debug\QuanLyTiemChung.fNhanVien_DieuHanh.resources
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\pttk httt\do an\v8_thai\QuanLyTiemChung\QuanLyTiemChung\obj\Debug\QuanLyTiemChung.fNhanVien_DieuHanh_SapXepLich.resources
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\pttk httt\do an\v8_thai\QuanLyTiemChung\QuanLyTiemChung\obj\Debug\QuanLyTiemChung.fNhanVien_DieuHanh_XemLich.resources
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\pttk httt\do an\v8_thai\QuanLyTiemChung\QuanLyTiemChung\obj\Debug\QuanLyTiemChung.fNhanVien_TiepTan_ThemPhieuDangKy.resources
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\pttk httt\do an\v8_thai\QuanLyTiemChung\QuanLyTiemChung\obj\Debug\QuanLyTiemChung.fNhanVien_TiepTan_XemDanhSachVaccine.resources
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\pttk httt\do an\v8_thai\QuanLyTiemChung\QuanLyTiemChung\obj\Debug\QuanLyTiemChung.fNhanVien_YBacSi.resources
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\pttk httt\do an\v8_thai\QuanLyTiemChung\QuanLyTiemChung\obj\Debug\QuanLyTiemChung.fNhanVien_YBacSi_DangKy.resources
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\pttk httt\do an\v8_thai\QuanLyTiemChung\QuanLyTiemChung\obj\Debug\QuanLyTiemChung.fNhanVien_YBacSi_XemLich.resources
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\pttk httt\do an\v8_thai\QuanLyTiemChung\QuanLyTiemChung\obj\Debug\QuanLyTiemChung.Properties.Resources.resources
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\pttk httt\do an\v8_thai\QuanLyTiemChung\QuanLyTiemChung\obj\Debug\QuanLyTiemChung.csproj.GenerateResource.cache
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\pttk httt\do an\v8_thai\QuanLyTiemChung\QuanLyTiemChung\obj\Debug\QuanLyTiemChung.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\pttk httt\do an\v8_thai\QuanLyTiemChung\QuanLyTiemChung\obj\Debug\QuanLyTiemChung.exe
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\pttk httt\do an\v8_thai\QuanLyTiemChung\QuanLyTiemChung\obj\Debug\QuanLyTiemChung.pdb
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\pttk httt\do an\v8_thai\QuanLyTiemChung\QuanLyTiemChung\obj\Debug\QuanLyTiemChung.NVKeToan.resources
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\pttk httt\do an\v8_thai\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\QuanLyTiemChung.exe.config
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\pttk httt\do an\v8_thai\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\QuanLyTiemChung.exe
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\pttk httt\do an\v8_thai\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\QuanLyTiemChung.pdb
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\pttk httt\do an\v8_thai\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Google.Apis.Core.dll
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\pttk httt\do an\v8_thai\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Google.Apis.dll
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\pttk httt\do an\v8_thai\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\pttk httt\do an\v8_thai\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Newtonsoft.Json.dll
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\pttk httt\do an\v8_thai\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\System.Data.SqlClient.dll
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\pttk httt\do an\v8_thai\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Google.Apis.pdb
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\pttk httt\do an\v8_thai\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Google.Apis.xml
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\pttk httt\do an\v8_thai\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Google.Apis.Core.pdb
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\pttk httt\do an\v8_thai\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Google.Apis.Core.xml
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\pttk httt\do an\v8_thai\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Newtonsoft.Json.xml
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\pttk httt\do an\v8_thai\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\System.Data.SqlClient.xml
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\pttk httt\do an\v8_thai\QuanLyTiemChung\QuanLyTiemChung\obj\Debug\QuanLyTiemChung.NVKeToanFChiTietDMVaccine.resources
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\pttk httt\do an\v8_thai\QuanLyTiemChung\QuanLyTiemChung\obj\Debug\QuanLyTiemChung.NVKeToanFChiTietHDTT.resources
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\pttk httt\do an\v8_thai\QuanLyTiemChung\QuanLyTiemChung\obj\Debug\QuanLyTiemChung.NVKeToanFChiTietXNTT.resources
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\pttk httt\do an\v8_thai\QuanLyTiemChung\QuanLyTiemChung\obj\Debug\QuanLyTiemChung.NVKeToanFDienHDTT.resources
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\pttk httt\do an\v8_thai\QuanLyTiemChung\QuanLyTiemChung\obj\Debug\QuanLyTiemChung.NVKeToanFDienXNTT.resources
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\pttk httt\do an\v8_thai\QuanLyTiemChung\QuanLyTiemChung\obj\Debug\QuanLyTiemChung.NVKeToanFDSDMVaccine.resources
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\pttk httt\do an\v8_thai\QuanLyTiemChung\QuanLyTiemChung\obj\Debug\QuanLyTiemChung.csproj.CopyComplete
+D:\19120652\HK2_3\HTTT\doan\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\QuanLyTiemChung.exe.config
+D:\19120652\HK2_3\HTTT\doan\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\QuanLyTiemChung.exe
+D:\19120652\HK2_3\HTTT\doan\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\QuanLyTiemChung.pdb
+D:\19120652\HK2_3\HTTT\doan\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Google.Apis.Core.dll
+D:\19120652\HK2_3\HTTT\doan\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Google.Apis.dll
+D:\19120652\HK2_3\HTTT\doan\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Google.Apis.PlatformServices.dll
+D:\19120652\HK2_3\HTTT\doan\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Newtonsoft.Json.dll
+D:\19120652\HK2_3\HTTT\doan\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\System.Data.SqlClient.dll
+D:\19120652\HK2_3\HTTT\doan\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Google.Apis.pdb
+D:\19120652\HK2_3\HTTT\doan\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Google.Apis.xml
+D:\19120652\HK2_3\HTTT\doan\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Google.Apis.Core.pdb
+D:\19120652\HK2_3\HTTT\doan\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Google.Apis.Core.xml
+D:\19120652\HK2_3\HTTT\doan\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Newtonsoft.Json.xml
+D:\19120652\HK2_3\HTTT\doan\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\System.Data.SqlClient.xml
+D:\19120652\HK2_3\HTTT\doan\QuanLyTiemChung\QuanLyTiemChung\obj\Debug\QuanLyTiemChung.csproj.AssemblyReference.cache
+D:\19120652\HK2_3\HTTT\doan\QuanLyTiemChung\QuanLyTiemChung\obj\Debug\QuanLyTiemChung.csproj.SuggestedBindingRedirects.cache
+D:\19120652\HK2_3\HTTT\doan\QuanLyTiemChung\QuanLyTiemChung\obj\Debug\QuanLyTiemChung.fLogin.resources
+D:\19120652\HK2_3\HTTT\doan\QuanLyTiemChung\QuanLyTiemChung\obj\Debug\QuanLyTiemChung.fNhanVien_TiepTan.resources
+D:\19120652\HK2_3\HTTT\doan\QuanLyTiemChung\QuanLyTiemChung\obj\Debug\QuanLyTiemChung.fNhanVien_DieuHanh.resources
+D:\19120652\HK2_3\HTTT\doan\QuanLyTiemChung\QuanLyTiemChung\obj\Debug\QuanLyTiemChung.fNhanVien_DieuHanh_SapXepLich.resources
+D:\19120652\HK2_3\HTTT\doan\QuanLyTiemChung\QuanLyTiemChung\obj\Debug\QuanLyTiemChung.fNhanVien_DieuHanh_XemLich.resources
+D:\19120652\HK2_3\HTTT\doan\QuanLyTiemChung\QuanLyTiemChung\obj\Debug\QuanLyTiemChung.fNhanVien_TiepTan_ThemPhieuDangKy.resources
+D:\19120652\HK2_3\HTTT\doan\QuanLyTiemChung\QuanLyTiemChung\obj\Debug\QuanLyTiemChung.fNhanVien_TiepTan_XemDanhSachVaccine.resources
+D:\19120652\HK2_3\HTTT\doan\QuanLyTiemChung\QuanLyTiemChung\obj\Debug\QuanLyTiemChung.fNhanVien_YBacSi.resources
+D:\19120652\HK2_3\HTTT\doan\QuanLyTiemChung\QuanLyTiemChung\obj\Debug\QuanLyTiemChung.fNhanVien_YBacSi_DangKy.resources
+D:\19120652\HK2_3\HTTT\doan\QuanLyTiemChung\QuanLyTiemChung\obj\Debug\QuanLyTiemChung.fNhanVien_YBacSi_XemLich.resources
+D:\19120652\HK2_3\HTTT\doan\QuanLyTiemChung\QuanLyTiemChung\obj\Debug\QuanLyTiemChung.NVKeToan.resources
+D:\19120652\HK2_3\HTTT\doan\QuanLyTiemChung\QuanLyTiemChung\obj\Debug\QuanLyTiemChung.NVKeToanFChiTietDMVaccine.resources
+D:\19120652\HK2_3\HTTT\doan\QuanLyTiemChung\QuanLyTiemChung\obj\Debug\QuanLyTiemChung.NVKeToanFChiTietHDTT.resources
+D:\19120652\HK2_3\HTTT\doan\QuanLyTiemChung\QuanLyTiemChung\obj\Debug\QuanLyTiemChung.NVKeToanFChiTietXNTT.resources
+D:\19120652\HK2_3\HTTT\doan\QuanLyTiemChung\QuanLyTiemChung\obj\Debug\QuanLyTiemChung.NVKeToanFDienHDTT.resources
+D:\19120652\HK2_3\HTTT\doan\QuanLyTiemChung\QuanLyTiemChung\obj\Debug\QuanLyTiemChung.NVKeToanFDienXNTT.resources
+D:\19120652\HK2_3\HTTT\doan\QuanLyTiemChung\QuanLyTiemChung\obj\Debug\QuanLyTiemChung.NVKeToanFDSDMVaccine.resources
+D:\19120652\HK2_3\HTTT\doan\QuanLyTiemChung\QuanLyTiemChung\obj\Debug\QuanLyTiemChung.Properties.Resources.resources
+D:\19120652\HK2_3\HTTT\doan\QuanLyTiemChung\QuanLyTiemChung\obj\Debug\QuanLyTiemChung.csproj.GenerateResource.cache
+D:\19120652\HK2_3\HTTT\doan\QuanLyTiemChung\QuanLyTiemChung\obj\Debug\QuanLyTiemChung.csproj.CoreCompileInputs.cache
+D:\19120652\HK2_3\HTTT\doan\QuanLyTiemChung\QuanLyTiemChung\obj\Debug\QuanLyTiemChung.csproj.CopyComplete
+D:\19120652\HK2_3\HTTT\doan\QuanLyTiemChung\QuanLyTiemChung\obj\Debug\QuanLyTiemChung.exe
+D:\19120652\HK2_3\HTTT\doan\QuanLyTiemChung\QuanLyTiemChung\obj\Debug\QuanLyTiemChung.pdb
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\pttk httt\do an\v9_thai\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\QuanLyTiemChung.exe.config
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\pttk httt\do an\v9_thai\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\QuanLyTiemChung.exe
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\pttk httt\do an\v9_thai\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\QuanLyTiemChung.pdb
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\pttk httt\do an\v9_thai\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Google.Apis.Core.dll
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\pttk httt\do an\v9_thai\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Google.Apis.dll
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\pttk httt\do an\v9_thai\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\pttk httt\do an\v9_thai\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Newtonsoft.Json.dll
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\pttk httt\do an\v9_thai\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\System.Data.SqlClient.dll
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\pttk httt\do an\v9_thai\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Google.Apis.pdb
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\pttk httt\do an\v9_thai\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Google.Apis.xml
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\pttk httt\do an\v9_thai\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Google.Apis.Core.pdb
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\pttk httt\do an\v9_thai\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Google.Apis.Core.xml
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\pttk httt\do an\v9_thai\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Newtonsoft.Json.xml
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\pttk httt\do an\v9_thai\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\System.Data.SqlClient.xml
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\pttk httt\do an\v9_thai\QuanLyTiemChung\QuanLyTiemChung\obj\Debug\QuanLyTiemChung.csproj.AssemblyReference.cache
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\pttk httt\do an\v9_thai\QuanLyTiemChung\QuanLyTiemChung\obj\Debug\QuanLyTiemChung.fLogin.resources
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\pttk httt\do an\v9_thai\QuanLyTiemChung\QuanLyTiemChung\obj\Debug\QuanLyTiemChung.fNhanVien_TiepTan.resources
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\pttk httt\do an\v9_thai\QuanLyTiemChung\QuanLyTiemChung\obj\Debug\QuanLyTiemChung.fNhanVien_DieuHanh.resources
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\pttk httt\do an\v9_thai\QuanLyTiemChung\QuanLyTiemChung\obj\Debug\QuanLyTiemChung.fNhanVien_DieuHanh_SapXepLich.resources
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\pttk httt\do an\v9_thai\QuanLyTiemChung\QuanLyTiemChung\obj\Debug\QuanLyTiemChung.fNhanVien_DieuHanh_XemLich.resources
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\pttk httt\do an\v9_thai\QuanLyTiemChung\QuanLyTiemChung\obj\Debug\QuanLyTiemChung.fNhanVien_TiepTan_ThemPhieuDangKy.resources
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\pttk httt\do an\v9_thai\QuanLyTiemChung\QuanLyTiemChung\obj\Debug\QuanLyTiemChung.fNhanVien_TiepTan_XemDanhSachVaccine.resources
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\pttk httt\do an\v9_thai\QuanLyTiemChung\QuanLyTiemChung\obj\Debug\QuanLyTiemChung.fNhanVien_YBacSi.resources
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\pttk httt\do an\v9_thai\QuanLyTiemChung\QuanLyTiemChung\obj\Debug\QuanLyTiemChung.fNhanVien_YBacSi_DangKy.resources
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\pttk httt\do an\v9_thai\QuanLyTiemChung\QuanLyTiemChung\obj\Debug\QuanLyTiemChung.fNhanVien_YBacSi_XemLich.resources
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\pttk httt\do an\v9_thai\QuanLyTiemChung\QuanLyTiemChung\obj\Debug\QuanLyTiemChung.NVKeToan.resources
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\pttk httt\do an\v9_thai\QuanLyTiemChung\QuanLyTiemChung\obj\Debug\QuanLyTiemChung.NVKeToanFDienHDTT.resources
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\pttk httt\do an\v9_thai\QuanLyTiemChung\QuanLyTiemChung\obj\Debug\QuanLyTiemChung.NVKeToanFDienXNTT.resources
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\pttk httt\do an\v9_thai\QuanLyTiemChung\QuanLyTiemChung\obj\Debug\QuanLyTiemChung.Properties.Resources.resources
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\pttk httt\do an\v9_thai\QuanLyTiemChung\QuanLyTiemChung\obj\Debug\QuanLyTiemChung.csproj.GenerateResource.cache
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\pttk httt\do an\v9_thai\QuanLyTiemChung\QuanLyTiemChung\obj\Debug\QuanLyTiemChung.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\pttk httt\do an\v9_thai\QuanLyTiemChung\QuanLyTiemChung\obj\Debug\QuanLyTiemChung.csproj.CopyComplete
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\pttk httt\do an\v9_thai\QuanLyTiemChung\QuanLyTiemChung\obj\Debug\QuanLyTiemChung.exe
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\pttk httt\do an\v9_thai\QuanLyTiemChung\QuanLyTiemChung\obj\Debug\QuanLyTiemChung.pdb
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\pttk httt\do an\v9_thai\QuanLyTiemChung\QuanLyTiemChung\obj\Debug\QuanLyTiemChung.fQuanLy.resources
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\pttk httt\do an\v9_thai\QuanLyTiemChung\QuanLyTiemChung\obj\Debug\QuanLyTiemChung.fQuanLy_DanhSachPDH.resources
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\pttk httt\do an\v9_thai\QuanLyTiemChung\QuanLyTiemChung\obj\Debug\QuanLyTiemChung.fQuanLy_DuyetDSDM.resources
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\pttk httt\do an\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\QuanLyTiemChung.exe.config
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\pttk httt\do an\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\QuanLyTiemChung.exe
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\pttk httt\do an\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\QuanLyTiemChung.pdb
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\pttk httt\do an\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Google.Apis.Core.dll
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\pttk httt\do an\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Google.Apis.dll
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\pttk httt\do an\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\pttk httt\do an\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Newtonsoft.Json.dll
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\pttk httt\do an\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\System.Data.SqlClient.dll
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\pttk httt\do an\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Google.Apis.pdb
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\pttk httt\do an\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Google.Apis.xml
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\pttk httt\do an\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Google.Apis.Core.pdb
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\pttk httt\do an\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Google.Apis.Core.xml
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\pttk httt\do an\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Newtonsoft.Json.xml
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\pttk httt\do an\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\System.Data.SqlClient.xml
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\pttk httt\do an\Nhom13\QuanLyTiemChung\QuanLyTiemChung\obj\Debug\QuanLyTiemChung.csproj.AssemblyReference.cache
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\pttk httt\do an\Nhom13\QuanLyTiemChung\QuanLyTiemChung\obj\Debug\QuanLyTiemChung.fLogin.resources
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\pttk httt\do an\Nhom13\QuanLyTiemChung\QuanLyTiemChung\obj\Debug\QuanLyTiemChung.fNhanVien_TiepTan.resources
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\pttk httt\do an\Nhom13\QuanLyTiemChung\QuanLyTiemChung\obj\Debug\QuanLyTiemChung.fNhanVien_DieuHanh.resources
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\pttk httt\do an\Nhom13\QuanLyTiemChung\QuanLyTiemChung\obj\Debug\QuanLyTiemChung.fNhanVien_DieuHanh_SapXepLich.resources
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\pttk httt\do an\Nhom13\QuanLyTiemChung\QuanLyTiemChung\obj\Debug\QuanLyTiemChung.fNhanVien_DieuHanh_XemLich.resources
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\pttk httt\do an\Nhom13\QuanLyTiemChung\QuanLyTiemChung\obj\Debug\QuanLyTiemChung.fNhanVien_TiepTan_ThemPhieuDangKy.resources
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\pttk httt\do an\Nhom13\QuanLyTiemChung\QuanLyTiemChung\obj\Debug\QuanLyTiemChung.fNhanVien_TiepTan_XemDanhSachVaccine.resources
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\pttk httt\do an\Nhom13\QuanLyTiemChung\QuanLyTiemChung\obj\Debug\QuanLyTiemChung.fNhanVien_YBacSi.resources
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\pttk httt\do an\Nhom13\QuanLyTiemChung\QuanLyTiemChung\obj\Debug\QuanLyTiemChung.fNhanVien_YBacSi_DangKy.resources
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\pttk httt\do an\Nhom13\QuanLyTiemChung\QuanLyTiemChung\obj\Debug\QuanLyTiemChung.fNhanVien_YBacSi_XemLich.resources
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\pttk httt\do an\Nhom13\QuanLyTiemChung\QuanLyTiemChung\obj\Debug\QuanLyTiemChung.fQuanLy.resources
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\pttk httt\do an\Nhom13\QuanLyTiemChung\QuanLyTiemChung\obj\Debug\QuanLyTiemChung.fQuanLy_DanhSachPDH.resources
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\pttk httt\do an\Nhom13\QuanLyTiemChung\QuanLyTiemChung\obj\Debug\QuanLyTiemChung.fQuanLy_DuyetDSDM.resources
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\pttk httt\do an\Nhom13\QuanLyTiemChung\QuanLyTiemChung\obj\Debug\QuanLyTiemChung.NVKeToan.resources
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\pttk httt\do an\Nhom13\QuanLyTiemChung\QuanLyTiemChung\obj\Debug\QuanLyTiemChung.NVKeToanFDienHDTT.resources
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\pttk httt\do an\Nhom13\QuanLyTiemChung\QuanLyTiemChung\obj\Debug\QuanLyTiemChung.NVKeToanFDienXNTT.resources
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\pttk httt\do an\Nhom13\QuanLyTiemChung\QuanLyTiemChung\obj\Debug\QuanLyTiemChung.Properties.Resources.resources
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\pttk httt\do an\Nhom13\QuanLyTiemChung\QuanLyTiemChung\obj\Debug\QuanLyTiemChung.csproj.GenerateResource.cache
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\pttk httt\do an\Nhom13\QuanLyTiemChung\QuanLyTiemChung\obj\Debug\QuanLyTiemChung.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\pttk httt\do an\Nhom13\QuanLyTiemChung\QuanLyTiemChung\obj\Debug\QuanLyTiemChung.csproj.CopyComplete
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\pttk httt\do an\Nhom13\QuanLyTiemChung\QuanLyTiemChung\obj\Debug\QuanLyTiemChung.exe
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\pttk httt\do an\Nhom13\QuanLyTiemChung\QuanLyTiemChung\obj\Debug\QuanLyTiemChung.pdb
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\QuanLyTiemChung.exe.config
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\QuanLyTiemChung.exe
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\QuanLyTiemChung.pdb
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Google.Apis.Core.dll
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Google.Apis.dll
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Google.Apis.PlatformServices.dll
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Newtonsoft.Json.dll
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\System.Data.SqlClient.dll
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Google.Apis.pdb
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Google.Apis.xml
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Google.Apis.Core.pdb
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Google.Apis.Core.xml
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Newtonsoft.Json.xml
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\System.Data.SqlClient.xml
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\obj\Debug\QuanLyTiemChung.csproj.AssemblyReference.cache
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\obj\Debug\QuanLyTiemChung.fLogin.resources
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\obj\Debug\QuanLyTiemChung.fNhanVien_TiepTan.resources
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\obj\Debug\QuanLyTiemChung.fNhanVien_DieuHanh.resources
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\obj\Debug\QuanLyTiemChung.fNhanVien_DieuHanh_SapXepLich.resources
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\obj\Debug\QuanLyTiemChung.fNhanVien_DieuHanh_XemLich.resources
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\obj\Debug\QuanLyTiemChung.fNhanVien_TiepTan_ThemPhieuDangKy.resources
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\obj\Debug\QuanLyTiemChung.fNhanVien_TiepTan_XemDanhSachVaccine.resources
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\obj\Debug\QuanLyTiemChung.fNhanVien_YBacSi.resources
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\obj\Debug\QuanLyTiemChung.fNhanVien_YBacSi_DangKy.resources
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\obj\Debug\QuanLyTiemChung.fNhanVien_YBacSi_XemLich.resources
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\obj\Debug\QuanLyTiemChung.fQuanLy.resources
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\obj\Debug\QuanLyTiemChung.fQuanLy_DanhSachPDH.resources
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\obj\Debug\QuanLyTiemChung.fQuanLy_DuyetDSDM.resources
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\obj\Debug\QuanLyTiemChung.NVKeToan.resources
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\obj\Debug\QuanLyTiemChung.NVKeToanFDienHDTT.resources
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\obj\Debug\QuanLyTiemChung.NVKeToanFDienXNTT.resources
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\obj\Debug\QuanLyTiemChung.Properties.Resources.resources
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\obj\Debug\QuanLyTiemChung.csproj.GenerateResource.cache
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\obj\Debug\QuanLyTiemChung.csproj.CoreCompileInputs.cache
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\obj\Debug\QuanLyTiemChung.csproj.CopyComplete
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\obj\Debug\QuanLyTiemChung.exe
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\obj\Debug\QuanLyTiemChung.pdb
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\obj\Debug\QuanLyTiemChung.fNhanVien_TiepTan_New.resources
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\EntityFramework.dll
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\EntityFramework.SqlServer.dll
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\EntityFramework.xml
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\EntityFramework.SqlServer.xml
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\BouncyCastle.Crypto.dll
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Google.Protobuf.dll
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\K4os.Compression.LZ4.dll
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\K4os.Hash.xxHash.dll
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Microsoft.Bcl.HashCode.dll
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Microsoft.EntityFrameworkCore.Design.dll
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Microsoft.EntityFrameworkCore.dll
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Microsoft.Extensions.Configuration.dll
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Microsoft.Extensions.Logging.dll
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Microsoft.Extensions.Options.dll
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\MySql.Data.dll
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\MySql.Data.EntityFrameworkCore.dll
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Renci.SshNet.dll
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\System.Buffers.dll
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\System.Collections.Immutable.dll
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\System.ComponentModel.Annotations.dll
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\System.Memory.dll
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\System.Numerics.Vectors.dll
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Ubiety.Dns.Core.dll
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Zstandard.Net.dll
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Google.Protobuf.pdb
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Google.Protobuf.xml
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\K4os.Compression.LZ4.xml
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\K4os.Hash.xxHash.xml
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Microsoft.Bcl.HashCode.xml
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Microsoft.EntityFrameworkCore.xml
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Microsoft.EntityFrameworkCore.Design.xml
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Microsoft.Extensions.Configuration.xml
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Microsoft.Extensions.Logging.xml
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Microsoft.Extensions.Options.xml
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\MySql.Data.xml
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\MySql.Data.EntityFrameworkCore.xml
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Renci.SshNet.xml
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\System.Buffers.xml
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\System.Collections.Immutable.xml
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\System.Memory.xml
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\System.Numerics.Vectors.xml
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Castle.Core.dll
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Microsoft.AspNetCore.Authentication.Core.dll
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Microsoft.AspNetCore.Authorization.dll
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Microsoft.AspNetCore.Authorization.Policy.dll
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Microsoft.AspNetCore.Http.dll
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Microsoft.AspNetCore.Http.Extensions.dll
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Microsoft.AspNetCore.Http.Features.dll
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Microsoft.AspNetCore.Mvc.Core.dll
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Microsoft.AspNetCore.Routing.dll
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Microsoft.AspNetCore.WebUtilities.dll
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Microsoft.DotNet.PlatformAbstractions.dll
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Microsoft.Extensions.DependencyModel.dll
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Microsoft.Extensions.ObjectPool.dll
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Microsoft.Net.Http.Headers.dll
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\System.Text.Encodings.Web.dll
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Castle.Core.xml
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Microsoft.AspNetCore.Authentication.Abstractions.xml
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Microsoft.AspNetCore.Authentication.Core.xml
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Microsoft.AspNetCore.Authorization.xml
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Microsoft.AspNetCore.Authorization.Policy.xml
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.xml
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Microsoft.AspNetCore.Http.xml
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.xml
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Microsoft.AspNetCore.Http.Extensions.xml
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Microsoft.AspNetCore.Http.Features.xml
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Microsoft.AspNetCore.Mvc.Abstractions.xml
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Microsoft.AspNetCore.Mvc.Core.xml
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Microsoft.AspNetCore.ResponseCaching.Abstractions.xml
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Microsoft.AspNetCore.Routing.xml
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Microsoft.AspNetCore.Routing.Abstractions.xml
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Microsoft.AspNetCore.WebUtilities.xml
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.xml
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Microsoft.Extensions.ObjectPool.xml
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Microsoft.Net.Http.Headers.xml
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\System.Text.Encodings.Web.xml
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Microsoft.Data.SqlClient.dll
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Microsoft.Identity.Client.dll
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Microsoft.IdentityModel.Logging.dll
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Newtonsoft.Json.Schema.dll
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\NJsonSchema.CodeGeneration.CSharp.dll
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\NJsonSchema.CodeGeneration.dll
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\NJsonSchema.dll
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\System.Data.SQLite.dll
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\System.Data.SQLite.EF6.dll
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\System.Data.SQLite.EF6.Migrations.dll
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\System.Data.SQLite.Linq.dll
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\System.Security.AccessControl.dll
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\System.Security.Permissions.dll
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\System.Security.Principal.Windows.dll
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\WebActivatorEx.dll
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\YourConfigIsInAnotherCastle.dll
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\YourConfigIsInAnotherCastle.Migrations.dll
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Microsoft.Data.SqlClient.pdb
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Microsoft.Data.SqlClient.xml
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.xml
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Microsoft.Identity.Client.xml
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Microsoft.IdentityModel.Logging.xml
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Newtonsoft.Json.Schema.xml
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\NJsonSchema.xml
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\NJsonSchema.CodeGeneration.xml
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\NJsonSchema.CodeGeneration.CSharp.xml
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\System.Data.SQLite.xml
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\System.Security.AccessControl.xml
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\System.Security.Permissions.xml
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\System.Security.Principal.Windows.xml
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\YourConfigIsInAnotherCastle.pdb
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\YourConfigIsInAnotherCastle.Migrations.pdb
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Microsoft.EntityFrameworkCore.Relational.Design.dll
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Microsoft.EntityFrameworkCore.Relational.Design.xml
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.Design.xml
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\obj\Debug\QuanLyTiemChung.exe.config
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\AutoMapper.dll
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\FluentValidation.dll
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Hangfire.Core.dll
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Microsoft.Extensions.Logging.Configuration.dll
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Microsoft.Extensions.Logging.Console.dll
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Owin.dll
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\SimpleInjector.dll
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\System.Text.Json.dll
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\System.ValueTuple.dll
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Turner.Infrastructure.Crud.dll
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Turner.Infrastructure.Crud.EntityFrameworkCore.dll
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Turner.Infrastructure.Mediator.dll
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\AutoMapper.pdb
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\AutoMapper.xml
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\FluentValidation.xml
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Hangfire.Core.xml
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Microsoft.Extensions.Logging.Configuration.xml
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Microsoft.Extensions.Logging.Console.xml
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Microsoft.Extensions.Options.ConfigurationExtensions.xml
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\SimpleInjector.xml
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\System.Text.Json.xml
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\System.ValueTuple.xml
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\es\Hangfire.Core.resources.dll
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\zh\Hangfire.Core.resources.dll
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Microsoft.DiaSymReader.Native.x86.dll
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Microsoft.DiaSymReader.Native.amd64.dll
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Microsoft.AspNetCore.Antiforgery.dll
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Microsoft.AspNetCore.Cors.dll
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Microsoft.AspNetCore.DataProtection.dll
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Microsoft.AspNetCore.Html.Abstractions.dll
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Microsoft.AspNetCore.JsonPatch.dll
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Microsoft.AspNetCore.Localization.dll
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Microsoft.AspNetCore.Mvc.Cors.dll
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Microsoft.AspNetCore.Mvc.dll
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Microsoft.AspNetCore.Mvc.Localization.dll
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Microsoft.AspNetCore.Mvc.Razor.dll
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Microsoft.AspNetCore.Mvc.RazorPages.dll
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Microsoft.AspNetCore.OData.dll
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Microsoft.AspNetCore.Razor.dll
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Microsoft.AspNetCore.Razor.Language.dll
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Microsoft.AspNetCore.Razor.Runtime.dll
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Microsoft.CodeAnalysis.CSharp.dll
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Microsoft.CodeAnalysis.dll
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Microsoft.CodeAnalysis.Razor.dll
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Microsoft.Data.Edm.dll
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Microsoft.Data.OData.dll
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Microsoft.Extensions.FileProviders.Composite.dll
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Microsoft.Extensions.Localization.Abstractions.dll
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Microsoft.Extensions.Localization.dll
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Microsoft.Extensions.WebEncoders.dll
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Microsoft.OData.Core.dll
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Microsoft.OData.Edm.dll
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Microsoft.OData.Extensions.Migration.dll
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Microsoft.Spatial.dll
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Microsoft.Win32.Registry.dll
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Newtonsoft.Json.Bson.dll
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\System.Reflection.Metadata.dll
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\System.Security.Cryptography.Xml.dll
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\System.Spatial.dll
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\System.Text.Encoding.CodePages.dll
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Microsoft.AspNetCore.Antiforgery.xml
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Microsoft.AspNetCore.Cors.xml
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Microsoft.AspNetCore.Cryptography.Internal.xml
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Microsoft.AspNetCore.DataProtection.xml
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Microsoft.AspNetCore.DataProtection.Abstractions.xml
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Microsoft.AspNetCore.Diagnostics.Abstractions.xml
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Microsoft.AspNetCore.Html.Abstractions.xml
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Microsoft.AspNetCore.JsonPatch.xml
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Microsoft.AspNetCore.Localization.xml
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Microsoft.AspNetCore.Mvc.xml
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Microsoft.AspNetCore.Mvc.ApiExplorer.xml
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Microsoft.AspNetCore.Mvc.Cors.xml
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Microsoft.AspNetCore.Mvc.DataAnnotations.xml
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Microsoft.AspNetCore.Mvc.Formatters.Json.xml
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Microsoft.AspNetCore.Mvc.Localization.xml
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Microsoft.AspNetCore.Mvc.Razor.xml
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Microsoft.AspNetCore.Mvc.Razor.Extensions.xml
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Microsoft.AspNetCore.Mvc.RazorPages.xml
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Microsoft.AspNetCore.Mvc.TagHelpers.xml
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Microsoft.AspNetCore.Mvc.ViewFeatures.xml
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Microsoft.AspNetCore.OData.xml
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Microsoft.AspNetCore.Razor.xml
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Microsoft.AspNetCore.Razor.Language.xml
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Microsoft.AspNetCore.Razor.Runtime.xml
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Microsoft.CodeAnalysis.pdb
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Microsoft.CodeAnalysis.xml
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Microsoft.CodeAnalysis.CSharp.pdb
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Microsoft.CodeAnalysis.CSharp.xml
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Microsoft.CodeAnalysis.Razor.xml
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Microsoft.Data.Edm.xml
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Microsoft.Data.OData.xml
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Microsoft.Extensions.FileProviders.Composite.xml
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Microsoft.Extensions.Localization.xml
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Microsoft.Extensions.Localization.Abstractions.xml
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Microsoft.Extensions.WebEncoders.xml
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Microsoft.OData.Core.xml
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Microsoft.OData.Edm.xml
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Microsoft.OData.Extensions.Migration.xml
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Microsoft.Spatial.xml
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\Newtonsoft.Json.Bson.xml
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\System.Reflection.Metadata.xml
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\System.Spatial.xml
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\de\Microsoft.Data.Edm.resources.dll
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\es\Microsoft.Data.Edm.resources.dll
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\it\Microsoft.Data.Edm.resources.dll
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\de\Microsoft.Data.OData.resources.dll
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\es\Microsoft.Data.OData.resources.dll
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\fr\Microsoft.Data.OData.resources.dll
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\it\Microsoft.Data.OData.resources.dll
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\ja\Microsoft.Data.OData.resources.dll
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\ko\Microsoft.Data.OData.resources.dll
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\ru\Microsoft.Data.OData.resources.dll
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\de\System.Spatial.resources.dll
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\es\System.Spatial.resources.dll
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\fr\System.Spatial.resources.dll
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\it\System.Spatial.resources.dll
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\ja\System.Spatial.resources.dll
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\ko\System.Spatial.resources.dll
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\ru\System.Spatial.resources.dll
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\zh-Hans\System.Spatial.resources.dll
+D:\19120652\HK1_4\KTPM\DOAN\Nhom13\QuanLyTiemChung\QuanLyTiemChung\bin\Debug\zh-Hant\System.Spatial.resources.dll

@@ -1,0 +1,337 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="QuanLytiemChungModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="DanhSachCacGoiTiem">
+    <Key>
+      <PropertyRef Name="MaGoiVaccine" />
+    </Key>
+    <Property Name="MaGoiVaccine" Type="String" MaxLength="10" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="TenVaccine" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="GhiChu" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="PhieuDangKies" Relationship="Self.fk_PhieuDangKy_DanhSachCacGoiTiem" FromRole="DanhSachCacGoiTiem" ToRole="PhieuDangKy" />
+  </EntityType>
+  <EntityType Name="DanhSachDatMuaVaccine">
+    <Key>
+      <PropertyRef Name="MaKH" />
+    </Key>
+    <Property Name="MaKH" Type="String" MaxLength="10" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="TenVaccine" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="SoLuong" Type="Int32" />
+    <Property Name="DuocDuyet" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="MaPDH" Type="String" MaxLength="10" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="KhachHang" Relationship="Self.fk_DanhSachDatMuaVaccine_KhachHang" FromRole="DanhSachDatMuaVaccine" ToRole="KhachHang" />
+    <NavigationProperty Name="PhieuDatHang" Relationship="Self.fk_DanhSachDatMuaVaccine_PhieuDatHang" FromRole="DanhSachDatMuaVaccine" ToRole="PhieuDatHang" />
+  </EntityType>
+  <EntityType Name="HoaDonThanhToan">
+    <Key>
+      <PropertyRef Name="MaHDTT" />
+    </Key>
+    <Property Name="MaHDTT" Type="String" MaxLength="10" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="MaPDK" Type="String" MaxLength="10" FixedLength="false" Unicode="false" />
+    <Property Name="NgayLap" Type="DateTime" Precision="0" />
+    <Property Name="LoaiThanhToan" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="SoDotThanhToan" Type="Int32" />
+    <Property Name="NgayThanhToanTiepTheo" Type="DateTime" Precision="0" />
+    <Property Name="ThanhTienMoiDot" Type="Double" />
+    <Property Name="PhuongThucGuiTien" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="TongTien" Type="Double" />
+    <Property Name="TongTienDaThanhToan" Type="Double" />
+    <Property Name="KhachHang" Type="String" MaxLength="10" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="KhachHang1" Relationship="Self.fk_HoaDonThanhToan_KhachHang" FromRole="HoaDonThanhToan" ToRole="KhachHang" />
+    <NavigationProperty Name="PhieuDangKy" Relationship="Self.fk_HoaDonThanhToan_PhieuDangKy" FromRole="HoaDonThanhToan" ToRole="PhieuDangKy" />
+    <NavigationProperty Name="XacNhanThanhToans" Relationship="Self.fk_XacNhanThanhToan_HoaDonThanhToan" FromRole="HoaDonThanhToan" ToRole="XacNhanThanhToan" />
+  </EntityType>
+  <EntityType Name="KhachHang">
+    <Key>
+      <PropertyRef Name="MaKH" />
+    </Key>
+    <Property Name="MaKH" Type="String" MaxLength="10" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="HoTenKH" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="NgaySinh" Type="DateTime" Precision="0" />
+    <Property Name="GioiTinh" Type="String" MaxLength="10" FixedLength="false" Unicode="true" />
+    <Property Name="DiaChi" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="SDT" Type="String" MaxLength="10" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="DanhSachDatMuaVaccine" Relationship="Self.fk_DanhSachDatMuaVaccine_KhachHang" FromRole="KhachHang" ToRole="DanhSachDatMuaVaccine" />
+    <NavigationProperty Name="HoaDonThanhToans" Relationship="Self.fk_HoaDonThanhToan_KhachHang" FromRole="KhachHang" ToRole="HoaDonThanhToan" />
+    <NavigationProperty Name="PhieuDangKies" Relationship="Self.fk_PhieuDangKy_KhachHang" FromRole="KhachHang" ToRole="PhieuDangKy" />
+    <NavigationProperty Name="TreEm" Relationship="Self.fk_TreEm_KhachHang" FromRole="KhachHang" ToRole="TreEm" />
+  </EntityType>
+  <EntityType Name="LichLamViec">
+    <Key>
+      <PropertyRef Name="MaNV" />
+      <PropertyRef Name="Ngay" />
+      <PropertyRef Name="Ca" />
+    </Key>
+    <Property Name="MaNV" Type="String" MaxLength="10" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Ngay" Type="DateTime" Nullable="false" Precision="0" />
+    <Property Name="Ca" Type="String" MaxLength="10" FixedLength="false" Unicode="true" Nullable="false" />
+    <NavigationProperty Name="NhanVien" Relationship="Self.fk_LichLamViec_NhanVien" FromRole="LichLamViec" ToRole="NhanVien" />
+  </EntityType>
+  <EntityType Name="LichRanh">
+    <Key>
+      <PropertyRef Name="MaNV" />
+      <PropertyRef Name="Ngay" />
+      <PropertyRef Name="Ca" />
+    </Key>
+    <Property Name="MaNV" Type="String" MaxLength="10" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Ngay" Type="DateTime" Nullable="false" Precision="0" />
+    <Property Name="Ca" Type="String" MaxLength="10" FixedLength="false" Unicode="true" Nullable="false" />
+    <NavigationProperty Name="NhanVien" Relationship="Self.fk_LichRanh_NhanVien" FromRole="LichRanh" ToRole="NhanVien" />
+  </EntityType>
+  <EntityType Name="NhanVien">
+    <Key>
+      <PropertyRef Name="MaNV" />
+    </Key>
+    <Property Name="MaNV" Type="String" MaxLength="10" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Password" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+    <Property Name="NgaySinh" Type="DateTime" Precision="0" />
+    <Property Name="ViTri" Type="String" MaxLength="20" FixedLength="false" Unicode="true" />
+    <Property Name="BangCap" Type="String" MaxLength="20" FixedLength="false" Unicode="true" />
+    <Property Name="DiaChi" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Phone" Type="String" MaxLength="10" FixedLength="false" Unicode="false" />
+    <Property Name="Email" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Luong" Type="Double" />
+    <Property Name="TrungTam" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="LichLamViecs" Relationship="Self.fk_LichLamViec_NhanVien" FromRole="NhanVien" ToRole="LichLamViec" />
+    <NavigationProperty Name="LichRanhs" Relationship="Self.fk_LichRanh_NhanVien" FromRole="NhanVien" ToRole="LichRanh" />
+    <NavigationProperty Name="PhieuDangKies" Relationship="Self.fk_PhieuDangKy_NhanVien" FromRole="NhanVien" ToRole="PhieuDangKy" />
+  </EntityType>
+  <EntityType Name="PhieuDangKy">
+    <Key>
+      <PropertyRef Name="MaPDK" />
+    </Key>
+    <Property Name="MaPDK" Type="String" MaxLength="10" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="NgayLap" Type="DateTime" Precision="0" />
+    <Property Name="GoiVaccine" Type="String" MaxLength="10" FixedLength="false" Unicode="false" />
+    <Property Name="NgayTiem" Type="DateTime" Precision="0" />
+    <Property Name="NVGhiNhan" Type="String" MaxLength="10" FixedLength="false" Unicode="false" />
+    <Property Name="MaKH" Type="String" MaxLength="10" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="DanhSachCacGoiTiem" Relationship="Self.fk_PhieuDangKy_DanhSachCacGoiTiem" FromRole="PhieuDangKy" ToRole="DanhSachCacGoiTiem" />
+    <NavigationProperty Name="HoaDonThanhToans" Relationship="Self.fk_HoaDonThanhToan_PhieuDangKy" FromRole="PhieuDangKy" ToRole="HoaDonThanhToan" />
+    <NavigationProperty Name="KhachHang" Relationship="Self.fk_PhieuDangKy_KhachHang" FromRole="PhieuDangKy" ToRole="KhachHang" />
+    <NavigationProperty Name="NhanVien" Relationship="Self.fk_PhieuDangKy_NhanVien" FromRole="PhieuDangKy" ToRole="NhanVien" />
+  </EntityType>
+  <EntityType Name="PhieuDatHang">
+    <Key>
+      <PropertyRef Name="MaPDH" />
+    </Key>
+    <Property Name="MaPDH" Type="String" MaxLength="10" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="NgayLap" Type="DateTime" Precision="0" />
+    <Property Name="NgayGui" Type="DateTime" Precision="0" />
+    <Property Name="NhaCungCap" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="TongSoLuongDatMua" Type="Int32" />
+    <Property Name="TenVaccine" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="DanhSachDatMuaVaccines" Relationship="Self.fk_DanhSachDatMuaVaccine_PhieuDatHang" FromRole="PhieuDatHang" ToRole="DanhSachDatMuaVaccine" />
+  </EntityType>
+  <EntityType Name="TreEm">
+    <Key>
+      <PropertyRef Name="MaKH" />
+    </Key>
+    <Property Name="MaKH" Type="String" MaxLength="10" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="HoTenNguoiGiamHo" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="QuanHe" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="SDTNguoiGiamHo" Type="String" MaxLength="10" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="KhachHang" Relationship="Self.fk_TreEm_KhachHang" FromRole="TreEm" ToRole="KhachHang" />
+  </EntityType>
+  <EntityType Name="XacNhanThanhToan">
+    <Key>
+      <PropertyRef Name="MaXNTT" />
+    </Key>
+    <Property Name="MaXNTT" Type="String" MaxLength="10" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="MaHDTT" Type="String" MaxLength="10" FixedLength="false" Unicode="false" />
+    <Property Name="DotThanhToan" Type="Int32" />
+    <Property Name="ThanhTien" Type="Double" />
+    <Property Name="NgayThanhToan" Type="DateTime" Precision="0" />
+    <Property Name="NgayThanhToanTiepTheo" Type="DateTime" Precision="0" />
+    <Property Name="TongTienChuaTT" Type="Double" />
+    <NavigationProperty Name="HoaDonThanhToan" Relationship="Self.fk_XacNhanThanhToan_HoaDonThanhToan" FromRole="XacNhanThanhToan" ToRole="HoaDonThanhToan" />
+  </EntityType>
+  <Association Name="fk_PhieuDangKy_DanhSachCacGoiTiem">
+    <End Role="DanhSachCacGoiTiem" Type="Self.DanhSachCacGoiTiem" Multiplicity="0..1" />
+    <End Role="PhieuDangKy" Type="Self.PhieuDangKy" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="DanhSachCacGoiTiem">
+        <PropertyRef Name="MaGoiVaccine" />
+      </Principal>
+      <Dependent Role="PhieuDangKy">
+        <PropertyRef Name="GoiVaccine" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="fk_DanhSachDatMuaVaccine_KhachHang">
+    <End Role="KhachHang" Type="Self.KhachHang" Multiplicity="1" />
+    <End Role="DanhSachDatMuaVaccine" Type="Self.DanhSachDatMuaVaccine" Multiplicity="0..1" />
+    <ReferentialConstraint>
+      <Principal Role="KhachHang">
+        <PropertyRef Name="MaKH" />
+      </Principal>
+      <Dependent Role="DanhSachDatMuaVaccine">
+        <PropertyRef Name="MaKH" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="fk_DanhSachDatMuaVaccine_PhieuDatHang">
+    <End Role="PhieuDatHang" Type="Self.PhieuDatHang" Multiplicity="0..1" />
+    <End Role="DanhSachDatMuaVaccine" Type="Self.DanhSachDatMuaVaccine" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="PhieuDatHang">
+        <PropertyRef Name="MaPDH" />
+      </Principal>
+      <Dependent Role="DanhSachDatMuaVaccine">
+        <PropertyRef Name="MaPDH" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="fk_HoaDonThanhToan_KhachHang">
+    <End Role="KhachHang" Type="Self.KhachHang" Multiplicity="0..1" />
+    <End Role="HoaDonThanhToan" Type="Self.HoaDonThanhToan" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="KhachHang">
+        <PropertyRef Name="MaKH" />
+      </Principal>
+      <Dependent Role="HoaDonThanhToan">
+        <PropertyRef Name="KhachHang" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="fk_HoaDonThanhToan_PhieuDangKy">
+    <End Role="PhieuDangKy" Type="Self.PhieuDangKy" Multiplicity="0..1" />
+    <End Role="HoaDonThanhToan" Type="Self.HoaDonThanhToan" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="PhieuDangKy">
+        <PropertyRef Name="MaPDK" />
+      </Principal>
+      <Dependent Role="HoaDonThanhToan">
+        <PropertyRef Name="MaPDK" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="fk_XacNhanThanhToan_HoaDonThanhToan">
+    <End Role="HoaDonThanhToan" Type="Self.HoaDonThanhToan" Multiplicity="0..1" />
+    <End Role="XacNhanThanhToan" Type="Self.XacNhanThanhToan" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="HoaDonThanhToan">
+        <PropertyRef Name="MaHDTT" />
+      </Principal>
+      <Dependent Role="XacNhanThanhToan">
+        <PropertyRef Name="MaHDTT" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="fk_PhieuDangKy_KhachHang">
+    <End Role="KhachHang" Type="Self.KhachHang" Multiplicity="0..1" />
+    <End Role="PhieuDangKy" Type="Self.PhieuDangKy" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="KhachHang">
+        <PropertyRef Name="MaKH" />
+      </Principal>
+      <Dependent Role="PhieuDangKy">
+        <PropertyRef Name="MaKH" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="fk_TreEm_KhachHang">
+    <End Role="KhachHang" Type="Self.KhachHang" Multiplicity="1" />
+    <End Role="TreEm" Type="Self.TreEm" Multiplicity="0..1" />
+    <ReferentialConstraint>
+      <Principal Role="KhachHang">
+        <PropertyRef Name="MaKH" />
+      </Principal>
+      <Dependent Role="TreEm">
+        <PropertyRef Name="MaKH" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="fk_LichLamViec_NhanVien">
+    <End Role="NhanVien" Type="Self.NhanVien" Multiplicity="1" />
+    <End Role="LichLamViec" Type="Self.LichLamViec" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="NhanVien">
+        <PropertyRef Name="MaNV" />
+      </Principal>
+      <Dependent Role="LichLamViec">
+        <PropertyRef Name="MaNV" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="fk_LichRanh_NhanVien">
+    <End Role="NhanVien" Type="Self.NhanVien" Multiplicity="1" />
+    <End Role="LichRanh" Type="Self.LichRanh" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="NhanVien">
+        <PropertyRef Name="MaNV" />
+      </Principal>
+      <Dependent Role="LichRanh">
+        <PropertyRef Name="MaNV" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="fk_PhieuDangKy_NhanVien">
+    <End Role="NhanVien" Type="Self.NhanVien" Multiplicity="0..1" />
+    <End Role="PhieuDangKy" Type="Self.PhieuDangKy" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="NhanVien">
+        <PropertyRef Name="MaNV" />
+      </Principal>
+      <Dependent Role="PhieuDangKy">
+        <PropertyRef Name="NVGhiNhan" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="QuanLytiemChungEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="DanhSachCacGoiTiems" EntityType="Self.DanhSachCacGoiTiem" />
+    <EntitySet Name="DanhSachDatMuaVaccines" EntityType="Self.DanhSachDatMuaVaccine" />
+    <EntitySet Name="HoaDonThanhToans" EntityType="Self.HoaDonThanhToan" />
+    <EntitySet Name="KhachHangs" EntityType="Self.KhachHang" />
+    <EntitySet Name="LichLamViecs" EntityType="Self.LichLamViec" />
+    <EntitySet Name="LichRanhs" EntityType="Self.LichRanh" />
+    <EntitySet Name="NhanViens" EntityType="Self.NhanVien" />
+    <EntitySet Name="PhieuDangKies" EntityType="Self.PhieuDangKy" />
+    <EntitySet Name="PhieuDatHangs" EntityType="Self.PhieuDatHang" />
+    <EntitySet Name="TreEms" EntityType="Self.TreEm" />
+    <EntitySet Name="XacNhanThanhToans" EntityType="Self.XacNhanThanhToan" />
+    <AssociationSet Name="fk_PhieuDangKy_DanhSachCacGoiTiem" Association="Self.fk_PhieuDangKy_DanhSachCacGoiTiem">
+      <End Role="DanhSachCacGoiTiem" EntitySet="DanhSachCacGoiTiems" />
+      <End Role="PhieuDangKy" EntitySet="PhieuDangKies" />
+    </AssociationSet>
+    <AssociationSet Name="fk_DanhSachDatMuaVaccine_KhachHang" Association="Self.fk_DanhSachDatMuaVaccine_KhachHang">
+      <End Role="KhachHang" EntitySet="KhachHangs" />
+      <End Role="DanhSachDatMuaVaccine" EntitySet="DanhSachDatMuaVaccines" />
+    </AssociationSet>
+    <AssociationSet Name="fk_DanhSachDatMuaVaccine_PhieuDatHang" Association="Self.fk_DanhSachDatMuaVaccine_PhieuDatHang">
+      <End Role="PhieuDatHang" EntitySet="PhieuDatHangs" />
+      <End Role="DanhSachDatMuaVaccine" EntitySet="DanhSachDatMuaVaccines" />
+    </AssociationSet>
+    <AssociationSet Name="fk_HoaDonThanhToan_KhachHang" Association="Self.fk_HoaDonThanhToan_KhachHang">
+      <End Role="KhachHang" EntitySet="KhachHangs" />
+      <End Role="HoaDonThanhToan" EntitySet="HoaDonThanhToans" />
+    </AssociationSet>
+    <AssociationSet Name="fk_HoaDonThanhToan_PhieuDangKy" Association="Self.fk_HoaDonThanhToan_PhieuDangKy">
+      <End Role="PhieuDangKy" EntitySet="PhieuDangKies" />
+      <End Role="HoaDonThanhToan" EntitySet="HoaDonThanhToans" />
+    </AssociationSet>
+    <AssociationSet Name="fk_XacNhanThanhToan_HoaDonThanhToan" Association="Self.fk_XacNhanThanhToan_HoaDonThanhToan">
+      <End Role="HoaDonThanhToan" EntitySet="HoaDonThanhToans" />
+      <End Role="XacNhanThanhToan" EntitySet="XacNhanThanhToans" />
+    </AssociationSet>
+    <AssociationSet Name="fk_PhieuDangKy_KhachHang" Association="Self.fk_PhieuDangKy_KhachHang">
+      <End Role="KhachHang" EntitySet="KhachHangs" />
+      <End Role="PhieuDangKy" EntitySet="PhieuDangKies" />
+    </AssociationSet>
+    <AssociationSet Name="fk_TreEm_KhachHang" Association="Self.fk_TreEm_KhachHang">
+      <End Role="KhachHang" EntitySet="KhachHangs" />
+      <End Role="TreEm" EntitySet="TreEms" />
+    </AssociationSet>
+    <AssociationSet Name="fk_LichLamViec_NhanVien" Association="Self.fk_LichLamViec_NhanVien">
+      <End Role="NhanVien" EntitySet="NhanViens" />
+      <End Role="LichLamViec" EntitySet="LichLamViecs" />
+    </AssociationSet>
+    <AssociationSet Name="fk_LichRanh_NhanVien" Association="Self.fk_LichRanh_NhanVien">
+      <End Role="NhanVien" EntitySet="NhanViens" />
+      <End Role="LichRanh" EntitySet="LichRanhs" />
+    </AssociationSet>
+    <AssociationSet Name="fk_PhieuDangKy_NhanVien" Association="Self.fk_PhieuDangKy_NhanVien">
+      <End Role="NhanVien" EntitySet="NhanViens" />
+      <End Role="PhieuDangKy" EntitySet="PhieuDangKies" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>
